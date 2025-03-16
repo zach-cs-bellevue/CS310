@@ -5,5 +5,5 @@ Repository for CS310 assignments.
 1. Zach Eaton
 2. Dr. Robert Flowers
 
-## Week1 Assignment
-1. Calculating and documenting grocery store price mark-up and sales tax rates.
+## Week1 Assignment (Ch02Exercise13)
+* Calculating and documenting grocery store price mark-up and sales tax rates.
