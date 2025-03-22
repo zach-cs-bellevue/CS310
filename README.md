@@ -2,8 +2,8 @@
 Repository for CS310 assignments.
 # CS 310 C++
 ## Contributors
-1. Zach Eaton
-2. Dr. Robert Flowers
+* Zach Eaton
+* Dr. Robert Flowers
 
 ## Module 1
 1. Ch02Exercise13
@@ -12,3 +12,5 @@ Repository for CS310 assignments.
 ## Module 2
 1. M2 Discussion
 * I/O code with 2 errors.
+2. Ch03Exercise07
+* Calculating and documenting interest on a credit catd's unpaid balance.
