@@ -11,7 +11,7 @@ int main()
 	cout << "Enter the net balance: $ ";
 	cin >> netBalance;
 
-	cout >> "Enter the payment made: $ ";
+	cout << "Enter the payment made: $ ";
 	cin >> payment;
 
 	cout << "Enter the number of days in the billing cycle (d1): ";
