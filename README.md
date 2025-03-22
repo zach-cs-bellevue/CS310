@@ -12,5 +12,7 @@ Repository for CS310 assignments.
 ## Module 2
 1. M2 Discussion
 * I/O code with 2 errors.
-2. Ch03Exercise07
+2. M2 Discussion Response
+* Corrections to I/O code with 2 errors.
+3. Ch03Exercise07
 * Calculating and documenting interest on a credit catd's unpaid balance.
