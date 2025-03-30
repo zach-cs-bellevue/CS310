@@ -20,5 +20,7 @@ Repository for CS310 assignments.
 ### Module 3
 1. M3 Discussion
 * Selection control statements with 2 errors.
-2. Ch04Exercise16
+2. M3 Discussion Response
+* Corrections to selection control statement code with forced errors.
+3. Ch04Exercise16
 * Calculating and documenting book sales royalties and determining best option.
