@@ -24,3 +24,7 @@ Repository for CS310 assignments.
 * Corrections to selection control statement code with forced errors.
 3. Ch04Exercise16
 * Calculating and documenting book sales royalties and determining best option.
+
+### Module 4
+1. M4 Discussion
+* Repetition control statements with 2 errors.
