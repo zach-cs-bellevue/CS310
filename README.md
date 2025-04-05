@@ -28,5 +28,7 @@ Repository for CS310 assignments.
 ### Module 4
 1. M4 Discussion
   * Repetition control statements with 2 errors.
-2. Ch05Exercise33
+2. M4 Discussion Response
+  * Corrections to repetition control statement code with forced errors.
+3. Ch05Exercise33
   * Calculating and documenting number of dishes prepared in allotted time.
