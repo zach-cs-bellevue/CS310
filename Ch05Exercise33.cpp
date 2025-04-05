@@ -23,7 +23,7 @@ int main() {
 	}
 
 	// Output
-	cout << "/nBianca can prepare " << dishes << " dishes." << endl;
+	cout << "\nBianca can prepare " << dishes << " dishes." << endl;
 
 	return 0;
 }
