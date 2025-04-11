@@ -32,3 +32,7 @@ Repository for CS310 assignments.
   * Corrections to repetition control statement code with forced errors.
 3. Ch05Exercise33
   * Calculating and documenting number of dishes prepared in allotted time.
+
+### Module 5
+1. M5 Discussion
+  * User-defined function with 2 errors.
