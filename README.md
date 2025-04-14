@@ -36,3 +36,7 @@ Repository for CS310 assignments.
 ### Module 5
 1. M5 Discussion
   * User-defined function with 2 errors.
+2. M5 Discussion Response
+  * Corrections to user-defined function code with forced errors.
+3. Ch06Exercise14
+  * Calculating and documenting discounted fee rates for low income/low consulting time customers.
