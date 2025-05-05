@@ -40,3 +40,13 @@ Repository for CS310 assignments.
   * Corrections to user-defined function code with forced errors.
 3. Ch06Exercise14
   * Calculating and documenting discounted fee rates for low income/low consulting time customers.
+
+### Module 6
+OUT SICK
+
+### Module 7
+OUT SICK
+
+### Module 8
+1. Ch10Exercise21
+  * Define class bankAccount and implement stored objects of the class.
