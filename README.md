@@ -50,3 +50,7 @@ OUT SICK
 ### Module 8
 1. Ch10Exercise21
   * Define class bankAccount and implement stored objects of the class.
+
+### Module 9
+1. M9 Discussion
+  * Inheritance program with a base class and at least two child classes with 2 errors.
