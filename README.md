@@ -54,3 +54,7 @@ OUT SICK
 ### Module 9
 1. M9 Discussion
   * Inheritance program with a base class and at least two child classes with 2 errors.
+2. M9 Discussion Response
+  * Correction to inheritance program with forced errors.
+3. Ch11Exercise13
+  * Derivative classes for bankAccount and implement stored objects in each class.
