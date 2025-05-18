@@ -58,3 +58,7 @@ OUT SICK
   * Correction to inheritance program with forced errors.
 3. Ch11Exercise13
   * Derivative classes for bankAccount and implement stored objects in each class.
+
+### Module 10
+1. M10 Discussion
+  * Program that incorporates pointers with forced errors.
