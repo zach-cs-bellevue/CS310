@@ -62,3 +62,7 @@ OUT SICK
 ### Module 10
 1. M10 Discussion
   * Program that incorporates pointers with forced errors.
+2. M10 Discussion Response
+  * tbd
+3. Ch12Exercise03
+  * Dynamic arrays for election candidate information and vote results.
