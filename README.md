@@ -63,6 +63,6 @@ OUT SICK
 1. M10 Discussion
   * Program that incorporates pointers with forced errors.
 2. M10 Discussion Response
-  * tbd
+  * Correction to program incorporating pointers with forced errors.
 3. Ch12Exercise03
   * Dynamic arrays for election candidate information and vote results.
