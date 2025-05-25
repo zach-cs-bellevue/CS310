@@ -70,3 +70,7 @@ OUT SICK
 ### Module 11
 1. M11 Discussion
   * Program that incorporate templates with forced errors.
+2. M11 Discussion Response
+  * Correction to program incorporating templates with forced errors.
+3. Ch13Exercise17
+  * Random number generator for 25 real numbers between 10 and 100.
