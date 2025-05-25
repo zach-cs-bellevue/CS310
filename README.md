@@ -66,3 +66,7 @@ OUT SICK
   * Correction to program incorporating pointers with forced errors.
 3. Ch12Exercise03
   * Dynamic arrays for election candidate information and vote results.
+
+### Module 11
+1. M11 Discussion
+  * Program that incorporate templates with forced errors.
