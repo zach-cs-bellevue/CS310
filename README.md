@@ -74,3 +74,7 @@ OUT SICK
   * Correction to program incorporating templates with forced errors.
 3. Ch13Exercise17
   * Random number generator for 25 real numbers between 10 and 100.
+
+### Module 12
+1. Ch14Exercise01
+  * Number converter from feet and inches to centimeter.
